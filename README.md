@@ -18,9 +18,6 @@ I'm currently focusing on:
 - 🧠 Data Structures & Algorithms
 - 🤖 AI & Generative AI
 - ⚙️ Backend Development
-- 🚀 DevOps
-- 🏗️ System Design
-- ⛓️ Web3
 
 ---
 
