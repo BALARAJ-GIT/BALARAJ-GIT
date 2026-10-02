@@ -40,7 +40,7 @@ I'm currently focusing on:
 ## 🛠️ Technologies
 
 ### Languages
-Java • JavaScript • Python • C
+JavaScript • Python • C
 
 ### Frontend
 HTML • CSS • JavaScript
@@ -59,7 +59,6 @@ Generative AI • AI APIs • AI Agents
 ## 🚀 Projects
 
 - 🌐 CSS & Web Development Projects
-- ☕ Java Projects
 - 🧠 DSA Practice
 - 🤖 AI Projects — Coming Soon
 
