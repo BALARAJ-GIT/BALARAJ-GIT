@@ -31,8 +31,6 @@ I'm currently focusing on:
 - DSA
 - GenAI
 - DevOps
-- Web3
-- System Design
 - Aptitude & Reasoning
 
 ---
